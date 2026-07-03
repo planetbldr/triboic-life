@@ -1,5 +1,7 @@
 # Triboic Life
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21155313.svg)](https://doi.org/10.5281/zenodo.21155313)
+
 **Could a living thing power itself from static electricity — the charge made by moving air or water — the same effect as the spark at a winter doorknob?**
 
 This project takes that question seriously and tests it the hard way. It proposes a class of life, *triboic life*, that harvests electrical charge from its own fluttering parts (*tribowhips*) driven by the flow of the fluid it lives in. Then, rather than leaving the idea as a pleasant possibility, it builds one concrete creature — **Fulgorax**, a millimetre-scale carbon-based organism — drops it into a simulation of the clouds of Venus, and works the chemistry forward to see whether it can actually pay for itself.
