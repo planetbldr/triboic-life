@@ -1,114 +1,141 @@
-# The Triboic Frontier: An Open Catalogue of Triboic-Life Candidates
+# The Triboic Frontier
 
-*A companion to the Triboic Life project. Not part of Report B's evidentiary spine.*
+**Daniel Moskal**
+*Independent researcher* · Chicago, IL · triboiclife@gmail.com
 
-**What this is.** Report B asked one narrow question carefully: could Fulgorax, a carbon-based sulfuric-acid cloud organism, close its energy ledger on Venus? This catalogue asks the opposite-shaped question. Where else could the triboic mechanism go, and who wants to design the next one? It is an invitation, not a result. Every candidate here is unexplored. Fulgorax is the only one the project actually built and tested. Nothing below was gated, simulated, or held to Fulgorax's standard. That is the work being handed off. The catalogue's job is to show the size of the frontier and give each possibility a name someone can claim.
 
-**The one piece of physics that opens the whole space.** A tribowhip is a sealed generator. Contact-separation happens between internal layers, the charge travels layer-to-layer into the body, and it never touches the surrounding medium. So the external fluid's conductivity is irrelevant. Water, brine, acid, hydrocarbon, none of them bleed the charge. This removes the gatekeeper that would otherwise kill most of these ideas. Only two gates remain: is there a sustained, fast flow to drive the flutter, and could a body persist and build itself in this medium? Mechanics and chemistry, not electrostatics.
-
----
-
-## Leading Candidate: The Venus Sulfur Creature
-
-Of everything in this catalogue, one candidate stands apart. Not because it is the most exotic, but because it is the one the project's own work pointed at, and the one aimed at a genuine, unexplained anomaly on the planet next door. If anyone designs a second triboic creature to Fulgorax's standard, it should be this one.
-
-Here is why. Fulgorax was built as a carbon creature, deliberately, because carbon biochemistry is the most heavily benchmarked in all of biology, and every step could be checked against laboratory data. That tractability choice had a cost, and the Venus test exposed it cleanly. The one anomaly Venus is genuinely flaunting is a sulfur anomaly, and a carbon creature is structurally unable to speak to it. Worked forward, Fulgorax's sulfur handling is a minor maintenance chore producing a trickle of elemental sulfur, a product Venus already makes abiotically, in attogram quantities, in the wrong atmospheric layer. The creature most defensible on paper is the creature least able to explain what Venus is actually showing us. That is not a failure to hide. It is a signpost. A specific failure points somewhere, and this one points directly at the sulfur the carbon creature set aside.
-
-The anomaly it points at is real and decades old. High in the haze, at roughly 70–75 km, well above Fulgorax's temperate 50–54 km home, the sulfur-dioxide mixing ratio stops falling with altitude and begins to rise, an inversion that should not be there. To produce it, some unidentified reservoir must be feeding sulfur back into the upper haze across 70–100 km, and no photochemical model has satisfactorily explained where it comes from. The leading conventional accounts invoke dynamics or solar-cycle effects, and a separate biological hypothesis (Bains & Seager) invokes ammonia. SO₂ and SO abundances also swing by a factor of two or more on week timescales. This is exactly the kind of thing that, if anything on Venus were going to hint at an exotic chemistry at work, it would look like.
-
-So the candidate is this: a triboic creature whose primary business is sulfur. One that earns its living running the sulfur reactions Venus is visibly doing, with triboelectric current as the supplement that pushes an otherwise-marginal sulfur metabolism into the black. Such a creature would sit inside Venus's real chemistry rather than beside it, and its waste would be sulfur compounds in the thick of the very cycle that puzzles us. It might live higher than Fulgorax, at or near the inversion layer itself. Where the carbon creature treats sulfur as a chore and produces a signal indistinguishable from the abiotic background, a sulfur-primary creature could plausibly leave a fingerprint in the anomaly itself, a reductive sink running counter to the abiotic oxidative cycle, in the one place the abiotic models are failing.
-
-And here is the honest constraint that makes this a road not taken rather than a result: this question cannot be resolved on a computer. Sulfur bioenergetics is sparsely benchmarked. Where the carbon creature had a laboratory anchor at nearly every step, a sulfur-based bioenergetic cycle has almost none, so nearly every step becomes speculation with no empirical floor. Worse, a sulfur-supplemented creature is coupling three energy inputs of different qualities, triboelectric pulses, redox gradients, and whatever else, across maintenance, repair, and synthesis, an underdetermined optimization that desk work cannot constrain. The whole thing is gated on wet-lab electrochemistry and sulfur photochemistry experiments nobody has run. That is precisely why it was the right call to develop the tractable carbon version first, and precisely why this is the next creature worth building, by someone with a laboratory and the same discipline Fulgorax was held to.
+**An open catalogue of triboic-life candidates.**
+*A companion to the Triboic Life project and the report "Life Powered Like Lightning." Not part of Report B's evidentiary spine. This is an invitation, not a result.*
 
 ---
 
-## The Rest of the Frontier
+## What this is
 
-Beyond Venus, the mechanism is portable. What follows is a quick labeling only. Each is a combination of an energy mode and an environment, with its micro-environments. These are seeds for channels, not analyses. The depth is for whoever claims them.
+The main report asked one narrow question carefully: could **Fulgorax**, a carbon-based organism drifting in the Venusian clouds, close its energy ledger on triboelectricity alone? This catalogue asks the opposite-shaped question. *Where else could the triboic mechanism go, and who wants to design the next one?*
 
-### The Seven Energy Modes
+Everything below is unexplored. Fulgorax is the only candidate the project actually built and tested. The rest are open — named so that someone can claim them, reason about them, and build past them.
 
-- **E1, Triboelectric only:** the current is the whole metabolism (Fulgorax's mode).
-- **E2, Triboelectric + low-quality photons:** supplements weak light-harvesting (Venus UV; M-dwarf red light).
-- **E3, Triboelectric + chemotrophy:** boosts a sluggish chemical metabolism.
-- **E4, Triboelectric + a sulfur cycle:** boosts a low-yield sulfur metabolism (the Venus sulfur creature above).
-- **E5, Triboelectric + friction-heat:** on cold worlds, the flutter delivers both current and warmth to an insulated body.
-- **E6, Triboelectric + thermal-gradient harvest:** a body spans an external temperature gradient and harvests it too.
-- **E7, Triboelectric + your second source:** the open slot. The pairing list is not closed.
-
-### The Six Environment Families
-
-**V1, CO₂-dominated atmospheres.** Members: Venus, Mars, CO₂ super-Earths. Fast zonal winds, dust storms, droplet-fall.
-*Micro-environments:* cloud-deck drifter; upper haze; lower/sub-cloud; suspended on a falling droplet; near-surface supercritical-CO₂; dust-devil column; surface-anchored flutterer; saltating sand layer.
-
-**V2, H₂/He reducing atmospheres.** Members: Jupiter, Saturn, Uranus, Neptune; sub-Neptunes; brown dwarfs; rogue planets. The strongest sustained flows known.
-*Micro-environments:* cloud-deck drifter (multiple decks by depth); convective updraft/downdraft; jet-stream shear boundary; storm vortex; deep convective layer; cold upper haze; internal-heat boundary (rogue/brown-dwarf).
-
-**V3, N₂ / hydrocarbon atmospheres.** Members: Titan, Triton, Pluto, Titan-analog exomoons. Methane/nitrogen winds, sea currents, geysers, electrostatic dunes.
-*Micro-environments:* cold-troposphere drifter; floating on the hydrocarbon seas; shoreline surf zone; saltating dune sands; methane-rain downdraft; geyser plume; over a nitrogen-ice glacier; sub-surface ocean current.
-
-**V4, Water / brine environments.** Members: Europa, Enceladus, Ganymede and other ocean moons; Hycean worlds. Tidal currents, plume jets, vent flows. (The whole family was off-limits before the sealed-generator clarification, the single biggest expansion the correction bought.)
-*Micro-environments:* ocean tidal-current drifter; ice-water interface and vent throat; hydrothermal vent plume; brine channels in the ice shell; plume jet to vacuum; high-pressure ice-ocean interface; ocean-surface vs deep vs air-sea interface (Hycean).
-
-**V5, Rock-vapor / silicate-cloud atmospheres.** Members: lava worlds, hot Jupiters, close-in rocky planets. Supersonic winds, magma-ocean convection. (The hardest body-chemistry frontier, and where the silicon/organosilicon speculation would live, with its "the conditions that let silicon survive break the electro-silicon chemistry" problem.)
-*Micro-environments:* rock-vapor wind layer; magma-ocean convective surface; terminator condensation flow; silicate/iron cloud layer; equatorial super-rotating jet.
-
-**V6, SO₂ / volcanic environments.** Members: Io, other volcanically active bodies. Plume jets, sublimation-collapse winds, lava-lake convection. (Kept distinct from V1: the flow is explosive volcanism and sublimation, a different mechanical regime, and the natural home for a non-Venus sulfur creature.)
-*Micro-environments:* volcanic plume column; SO₂ sublimation-wind layer; lava-lake convective boundary.
+The catalogue comes in two parts: a **comprehensive grid** showing the whole possibility space, and a **short list of top targets** — the handful worth tackling first, with the reasoning for each.
 
 ---
 
-## The Candidate Index (channel seeds)
+## The three assumptions (the gates)
 
-A flat, numbered list of the live candidates, each an energy mode crossed with an environment, listed only where a designer could reasonably begin. Each carries a hashtag for claiming and cross-linking discussion (`#triboicTC1`, `#triboicTC2`, and so on). Format: **TC-n · hashtag, energy × environment** — *the flow that drives it* — the hard problem a designer must solve. Fulgorax (TC-1) is the only one the project built. Everything else is open.
+Every candidate in this catalogue is assumed to meet three conditions. A possibility that fails one is not triboic life.
 
-### CO₂-dominated (V1)
-- **TC-1 · #triboicTC1** — E1 Triboelectric-only × Venus cloud deck — *zonal wind* — closing the ledger alone (**= Fulgorax; the whole paper**).
-- **TC-2 · #triboicTC2** — E2 + UV photons × Venus high haze — *wind + UV flux* — pigment survival in acid; three-way energy coupling (the UV+sulfur hybrid).
-- **TC-3 · #triboicTC3** — E4 + sulfur cycle × Venus cloud/inversion layer — *wind* — sulfur bioenergetics with no benchmarks (**the leading candidate**).
-- **TC-4 · #triboicTC4** — E3 + chemotrophy × Venus lower cloud — *wind, denser air* — finding the marginal redox couple.
-- **TC-5 · #triboicTC5** — E1 Triboelectric-only × Mars dust-devil column — *intermittent storm wind* — dormancy between seasonal flows.
-- **TC-6 · #triboicTC6** — E6 + thermal gradient × Mars surface-anchored — *wind over a day-night-cycled surface* — weak flow, thin air.
-- **TC-7 · #triboicTC7** — E3 + chemotrophy × CO₂ super-Earth — *generic fast winds* — depends on assumed surface chemistry.
+- **Constant flow.** A sustained, fast-moving fluid to drive the flutter — not seasonal, not bursty. This is a real filter: it is why Titan, whose surface winds are gentle, appears nowhere on the target list despite being a favorite of speculative biology.
+- **No free oxygen.** A reducing or inert environment, with no convenient oxygen to power complex chemistry. That absence is the whole reason a triboic boost is worth having.
+- **A triboic boost for complexity.** Triboelectric current pays for the expensive metabolic steps an oxygen-poor world otherwise can't afford. For Fulgorax it is the entire engine; for most candidates it supplements a primary metabolism.
 
-### H₂/He reducing (V2)
-- **TC-8 · #triboicTC8** — E1 Triboelectric-only × Jupiter cloud-deck drifter — *convective jets, immense shear* — body chemistry in a reducing H₂ atmosphere; mixing to lethal depths.
-- **TC-9 · #triboicTC9** — E5 + friction-heat × Saturn polar-jet boundary — *the hexagon jet* — thermal banking at depth.
-- **TC-10 · #triboicTC10** — E5 + friction-heat × Uranus convective layer — *slow-then-violent convection* — faint energy budget; self-heating is the point.
-- **TC-11 · #triboicTC11** — E5 + friction-heat × Neptune convective plume — *the fastest winds known, internal-heat updrafts* — abundant flow, scarce light (**strongest E5 case in the solar system**).
-- **TC-12 · #triboicTC12** — E1 Triboelectric-only × Neptune Dark-Spot vortex — *storm-vortex shear* — transient vs persistent flow.
-- **TC-13 · #triboicTC13** — E3 + chemotrophy × sub-Neptune envelope — *thick-envelope circulation* — generic; chemistry undetermined.
-- **TC-14 · #triboicTC14** — E5 + friction-heat × brown-dwarf cloud band — *vigorous starless convection* — silicate/iron-cloud body chemistry.
-- **TC-15 · #triboicTC15** — E5 + friction-heat × rogue-planet deep atmosphere — *internal-heat convection* — no starlight at all; friction-heat + chemotrophy may be the only viable pairing.
-
-### N₂ / hydrocarbon (V3)
-- **TC-16 · #triboicTC16** — E5 + friction-heat × Titan troposphere drifter — *cold methane wind* — cold slows chemistry, but self-heating answers it (**flagship cold-world candidate**).
-- **TC-17 · #triboicTC17** — E1 Triboelectric-only × Titan hydrocarbon sea — *wave + tidal current* — body buoyancy and build in liquid methane.
-- **TC-18 · #triboicTC18** — E5 + friction-heat × Titan dune-sand saltation — *wind-driven electrostatic dunes (Cassini-observed)* — anchoring in moving sand.
-- **TC-19 · #triboicTC19** — E1 Triboelectric-only × Triton geyser plume — *nitrogen-geyser jet* — transient, extreme-cold flow.
-- **TC-20 · #triboicTC20** — E5 + friction-heat × Pluto haze / glacier wind — *sublimation circulation, glacier convection* — vanishingly thin flow.
-
-### Water / brine (V4) — the post-correction expansion
-- **TC-21 · #triboicTC21** — E3 + chemotrophy × Europa ocean tidal current — *tidal flow under ice* — biosynthesis in cold brine; supplement to vent chemosynthesis.
-- **TC-22 · #triboicTC22** — E1 Triboelectric-only × Enceladus plume jet — *fast two-phase vent jet to vacuum* — surviving the venting cycle.
-- **TC-23 · #triboicTC23** — E6 + thermal gradient × Enceladus vent throat — *vent flow across a steep thermal gradient* — spanning the gradient with a small body.
-- **TC-24 · #triboicTC24** — E3 + chemotrophy × Europa hydrothermal vent plume — *buoyant vent flow* — pairing flutter with vent redox chemistry.
-- **TC-25 · #triboicTC25** — E5 + friction-heat × Ganymede deep ice-ocean interface — *high-pressure interfacial current* — pressure and the ice VI/VII boundary.
-- **TC-26 · #triboicTC26** — E3 + chemotrophy × Hycean ocean current — *strong global-ocean currents under H₂* — generic but spacious; a whole world of micro-environments.
-- **TC-27 · #triboicTC27** — E6 + thermal gradient × Hycean atmosphere-ocean interface — *surface current + air-sea thermal boundary* — interfacial station-keeping.
-
-### Rock-vapor / silicate-cloud (V5)
-- **TC-28 · #triboicTC28** — E6 + thermal gradient × hot-Jupiter terminator — *supersonic day-night wind* — body chemistry in rock vapor (**hardest in the catalogue**).
-- **TC-29 · #triboicTC29** — E1 Triboelectric-only × lava-world rock-vapor wind — *supersonic circulation* — what is a body made of here at all.
-- **TC-30 · #triboicTC30** — silicon/organosilicon body × any V5 (cross-cutting) — *silicate-cloud flow* — the "two extremes poison each other" problem (silicon speculation; Report B VI-3).
-
-### SO₂ / volcanic (V6)
-- **TC-31 · #triboicTC31** — E1 Triboelectric-only × Io volcanic plume — *explosive plume jet* — transient flow; extreme radiation/thermal body problem.
-- **TC-32 · #triboicTC32** — E4 + sulfur cycle × Io SO₂ sublimation-wind layer — *day-night sublimation wind* — sulfur metabolism in near-vacuum SO₂ (natural home of an E4 sulfur creature).
-
-### The open frontier
-- **TC-33+ · #triboicTC33** — E7 × yours — *a world we haven't imagined, with a fluid that moves, and a second energy source we haven't named.* The catalogue is unfinished. The numbering continues with the community's designs.
+**The one piece of physics that opens the space.** A tribowhip is a *sealed* generator — contact-separation happens between internal layers, and the charge never touches the surrounding medium. So the external fluid's conductivity is irrelevant. Water, brine, acid, hydrocarbon: none of them bleed the charge away. Only two gates remain after that — is there sustained fast flow, and can a body build and maintain itself in this medium? Mechanics and chemistry, never electrostatics.
 
 ---
 
-*Claim a candidate by its hashtag. The discipline that made Fulgorax defensible, gated, tiered, cheapest-kill-first, honest about its limits, is the standard each of these would have to meet to become more than a name on a list. That work is the invitation.*
+## The comprehensive grid
+
+**Rows** are environments. **Columns** are the three power types. Each cell notes whether a candidate is *floating* or *rock-anchored*, and carries a **❄** stamp where friction heat (the whips warming the body) is likely to matter — always and only in cold environments.
+
+The three power types:
+
+- **Triboautotroph** — triboelectric current is the *entire* metabolism (Fulgorax's mode). The hardest ledger; the current pays for everything.
+- **Tribochemoautotroph** — a triboelectric boost on top of a sluggish *chemical* metabolism (a marginal redox couple, a sulfur cycle).
+- **Tribophotoautotroph** — a triboelectric boost on top of *weak light-harvesting* (dim red-dwarf light, or Venus UV).
+
+A blank cell means one of two very different things, and the note says which: **—** marks a combination that is *structurally impossible* (e.g. nothing to anchor to on a gas giant), while *open* marks one that is physically allowed but simply undrafted — a door, not a wall.
+
+| Environment | Triboautotroph (current only) | Tribochemoautotroph (+ chemistry) | Tribophotoautotroph (+ weak light) |
+|---|---|---|---|
+| **CO₂ atmosphere** (Venus-like) | **Fulgorax** — floating *(built)* | floating ❄ — **Venus sulfur creature** *(top target)* | floating — UV-harvester in the high haze |
+| **H₂/He atmosphere** (cold Jupiter/Saturn) | floating — deep cloud-deck drifter | floating — reducing-atmosphere chemotroph *(open)* | *open* — dim light deep in the clouds |
+| **Ice-giant atmosphere** (Neptune-like) | floating ❄ — **ice-giant cloud drifter** *(top target)* | *open* | — little light this far out |
+| **Anoxic vent-driven water** (Earth deep-sea vents; likely Europa) | rock-anchored — **deep-sea vent creature** *(top target)* | rock-anchored — **vent-chemistry variant** *(top target)* | — no light at depth |
+| **Liquid water / brine** (icy-moon oceans) | floating ❄ — sub-ice tidal drifter *(open)* | floating — vent-plume chemotroph *(open)* | floating — sunlit surface layer *(open)* |
+| **Liquid methane** (Titan-like lakes; windier exo-analogues) | floating ❄ — **methane-lake drifter** *(top target, theoretical exoplanet)* | floating ❄ — methane-sea chemotroph *(open)* | — light poor through thick haze |
+| **Liquid ammonia** (cold ammonia lakes/oceans) | floating ❄ — *open* | floating ❄ — *open* | — *open* |
+| **Windy atmosphere, red-dwarf planet** (tidally locked) | floating — terminator-wind drifter | *open* | floating — **red-dwarf photo-creature** *(top target)* |
+
+*Notes threaded through the grid: Titan's own lakes are too still to qualify — the methane-lake entry is written as a theoretical exoplanet with stronger winds. Ammonia lakes are a real possibility on cold worlds and are left deliberately open. Europa is widely suspected to host vent systems like Earth's, which is why the vent row names both.*
+
+---
+
+## The top targets
+
+Five candidates worth tackling first, in order. The first two get full treatment; the last three are shorter sketches. Every one of them is a different animal — that is the point. Triboic life is a *class* defined by a mechanism, not a creature with reskins, and these five look almost nothing alike.
+
+---
+
+### 1 · The Venus sulfur creature
+
+*CO₂ atmosphere · tribochemoautotroph · floating*
+
+Of everything here, this is the candidate the project's own work pointed at, and the one aimed at a genuine, unexplained anomaly on the planet next door. If anyone designs a second triboic creature to Fulgorax's standard, it should be this one.
+
+Fulgorax was built as a carbon creature, deliberately, because carbon biochemistry is the most heavily benchmarked in all of biology and every step could be checked against laboratory data. That tractability choice had a cost, and the Venus test exposed it cleanly. The one anomaly Venus is genuinely flaunting is a *sulfur* anomaly, and a carbon creature is structurally unable to speak to it. Worked forward, Fulgorax's sulfur handling is a minor maintenance chore producing a trickle of elemental sulfur — a product Venus already makes abiotically, in tiny quantities, in the wrong atmospheric layer. The creature most defensible on paper is the creature least able to explain what Venus is actually showing us. That is not a failure to hide; it is a signpost, and it points directly at the sulfur the carbon creature set aside.
+
+The anomaly is real and decades old. High in the haze, around 70–75 km — well above Fulgorax's temperate 50–54 km home — the sulfur-dioxide mixing ratio stops falling with altitude and begins to rise, an inversion that should not be there. Some unidentified reservoir must be feeding sulfur back into the upper haze, and no photochemical model has satisfactorily explained where it comes from.
+
+So the candidate is this: a triboic creature whose primary business is sulfur — one that earns its living running the sulfur reactions Venus is visibly doing, with triboelectric current as the supplement that pushes an otherwise-marginal sulfur metabolism into the black. It would sit *inside* Venus's real chemistry rather than beside it, its waste in the thick of the very cycle that puzzles us, and it might live higher than Fulgorax, at or near the inversion layer itself.
+
+There is a mechanism that could get it there. The inversion sits in the colder upper haze, some twenty kilometres above Fulgorax's temperate home — a hostile place for a creature to migrate to. But friction heat from the fluttering whips (the ❄ modifier that appears across the cold-world candidates) could warm the body enough to make that colder altitude livable. The same flutter that powers the metabolism could, in principle, buy the creature access to the very layer where the anomaly is — which is exactly where it would most want to be.
+
+The honest constraint that makes this a road not taken rather than a result: it cannot be resolved on a computer. Sulfur bioenergetics is sparsely benchmarked; where the carbon creature had a laboratory anchor at nearly every step, a sulfur-based cycle has almost none. The whole thing is gated on wet-lab electrochemistry and sulfur photochemistry experiments nobody has run. That is precisely why the tractable carbon version was the right thing to build first — and precisely why this is the next creature worth building, by someone with a laboratory and the same discipline Fulgorax was held to.
+
+**Why it's #1:** it targets a real, named, unexplained anomaly; a probe now en route (DAVINCI) could measure the sulfur-isotope signature it would leave; and it is the direct, logical successor to the report's central result.
+
+---
+
+### 2 · The deep-sea vent creature
+
+*Anoxic vent-driven water · triboautotroph **or** tribochemoautotroph · rock-anchored · **Earth***
+
+This one is nothing like the Venus fuzzballs, and that difference is the whole reason it matters. Fulgorax and the sulfur creature are millimetre-scale drifters riding atmospheric wind. This is an anchored organism gripping rock in dense, fast water driven upward by volcanic force. Same mechanism, unrecognizably different animal — and it lives not on another world but at the bottom of our own ocean.
+
+Here is the setup. At deep-sea hydrothermal vents, the complex animals we know — the tubeworms, the crabs, the whole visible community — cluster where anoxic vent fluid mixes with oxygenated seawater. They need that oxygen. Push in past the mixing boundary, into the pure anoxic flow being driven up from below, and the textbook says the only life that can survive there is single-celled chemoautotrophs. Complex, multicellular life is thought to stop where the oxygen stops.
+
+The triboic prediction breaks exactly that rule. A triboelectric boost is a way to pay for the complexity that an oxygen-free environment otherwise can't fund. So the thing to look for is **a multicellular organism living deep in the anoxic vent flow, in a place where only single cells were believed possible** — anchored to the rock, its whips fluttered by the upwelling, running a metabolism that oxygen was supposed to be required for. Finding multicellularity where the map says there should be none is the signature. It is the single clearest demonstration of this project's central claim: that triboic current is what could let complex life exist without oxygen.
+
+This creature could take either of two forms, and both are worth designing. It might be a pure **triboautotroph**, running entirely on the current its whips draw from the upwelling — the vent-flow analogue of Fulgorax. Or it might be a **tribochemoautotroph**, keeping the ordinary vent chemosynthesis that single-celled life already uses down there, and adding a triboelectric boost on top — just enough extra current to fund the leap to multicellularity that the chemistry alone can't pay for. The second version is arguably the gentler ledger and the more likely find, since it builds on a metabolism already known to work at vents rather than replacing it wholesale. Both belong on the priority list; the grid tags both.
+
+And the reason it could have gone unseen is simple: almost none of it has been looked at. Only a tiny fraction of Earth's vent systems have been surveyed at all, and the subsurface conduits that *feed* the plumes — the very anoxic channels where such a creature would live — are almost entirely unexplored. This isn't a creature that should already have been found and wasn't. It's a creature in the one part of the vent system nobody has been.
+
+**Why it's #2, and why that ordering matters:** it is the most *reachable* target on this list — a submersible, not a spacecraft — and the most falsifiable. But it is deliberately *not* #1, because it is the surprising extension rather than the direct descendant of the main report. The expectation is that a reader comes to triboic life through Venus, and only here realizes the mechanism reaches into Earth's own ocean. (Many suspect Europa hosts vent systems much like Earth's, beneath its ice — which is why this environment appears twice in the grid, once for Earth and once for the icy moons.)
+
+---
+
+### 3 · The ice-giant cloud drifter
+
+*Ice-giant atmosphere (Neptune-like) · triboautotroph ❄ · floating*
+
+Neptune has the fastest sustained winds in the solar system and a strong internal heat source driving deep convection — the ideal flutter conditions, and, crucially, far more of them than sunlight. This is the flagship **friction-heat** candidate: so little light reaches the outer solar system that a photo-metabolism is hopeless, but the same relentless flow that powers the whips can also *warm* the body. Here self-heating isn't a bonus; it may be the thing that makes any chemistry possible at all.
+
+The hard problem is body chemistry in a cold, reducing H₂-rich atmosphere, and the risk of convective mixing carrying a drifter down to lethal depths. But of the giant-planet environments, an ice giant is the one where abundant flow and scarce light most cleanly favor the triboic mode over every alternative. (Neptune, specifically, rather than Uranus — Uranus lacks the strong internal heat that drives the convection this depends on.)
+
+---
+
+### 4 · The methane-lake drifter
+
+*Liquid methane · triboautotroph ❄ · floating · theoretical exoplanet*
+
+A creature drifting in a hydrocarbon sea, whips fluttered by wave and current, self-heating against the deep cold. The appeal is the sheer strangeness of the medium — liquid methane, where the sealed generator's indifference to its surroundings is the whole reason the idea survives at all.
+
+The honest caveat is the linking note to the grid: **Titan itself won't do.** Its lakes are too still and its surface winds too gentle to drive a sustained flutter — which is exactly the "constant flow" gate doing its job. So this candidate is written as a *theoretical exoplanet*: a Titan-like world with stronger winds or livelier seas. The same reasoning admits an **ammonia**-lake version on some cold worlds, left open in the grid for whoever wants it.
+
+---
+
+### 5 · The red-dwarf wind creature
+
+*Windy atmosphere, red-dwarf planet · tribophotoautotroph · floating*
+
+Red-dwarf planets draw enormous interest in the search for life, and they come with a well-known problem for it. A red dwarf's light is shifted toward the infrared, and its individual photons are lower in energy than those from a sun-like star. Recent work argues this is a specific barrier to *complexity*: the dim red photons may be energetic enough to run a metabolism, but too weak, individually, to drive the demanding chemistry that building complex life appears to require. There may simply not be enough usable energy per photon to get past microbial simplicity. (Separately, that same infrared-heavy spectrum tends to leave these planets poor at holding onto atmospheric water — a second strike against Earth-like habitability.)
+
+This is exactly the gap a triboic boost is built to close. The creature would harvest the red photons it *can* use to run its base metabolism — a genuine tribophotoautotroph — and draw the extra energy that complexity demands not from richer light, which the star cannot provide, but from wind. And wind is the one thing these worlds have in abundance: red-dwarf habitable-zone planets are tidally locked, and the permanent temperature contrast between the scorched day side and the frozen night side drives ferocious, unending winds at the terminator. So the star's central limitation — photons that power life but can't build complexity — is answered by the planet's most extreme feature. The triboic creature is a way to be complex on a world whose light says you shouldn't be.
+
+---
+
+## A note on the tribowhip
+
+Throughout this catalogue the tribowhip is described with Fulgorax's specific materials — a cellulose skin against a quinone gel, armored in sporopollenin and backed with silk. Those choices were made to keep Fulgorax defensible, not because they are the only ones. Other material pairings could serve as the charge-generating layers, tuned to the medium and chemistry of a given world, and several variants are discussed in the **Triboic Life Technical Companion (Report B)**. A designer claiming any candidate here should treat the whip's construction as open, not settled.
+
+---
+
+*Claim a candidate. The discipline that made Fulgorax defensible — gated, tiered, cheapest-kill-first, honest about its limits — is the standard each of these would have to meet to become more than a name on a grid. That work is the invitation.*
