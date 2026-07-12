@@ -1,6 +1,6 @@
 # Triboic Life
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21155313.svg)](https://doi.org/10.5281/zenodo.21155313)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21155312.svg)](https://doi.org/10.5281/zenodo.21155312)
 
 **Could a living thing power itself from static electricity — the charge made by moving air or water — the same effect as the spark at a winter doorknob?**
 
@@ -65,5 +65,11 @@ This work is released under [**Creative Commons Attribution 4.0 International (C
 You are free to share and adapt all of it — including for your own research and publications — for any purpose, as long as you give appropriate credit. Building on this work is not just allowed, it is the goal. Please cite it so others can trace the lineage of the idea.
 
 ---
+
+## How to cite
+
+If you use or build on this work, please cite the archived release:
+
+> planetbldr (2026). *Triboic Life: A speculative-biology project on organisms powered by triboelectricity.* Zenodo. https://doi.org/10.5281/zenodo.21155312
 
 *A speculative-biology project pursued with the discipline of a real one: built to be caught being wrong, and handed off honestly at its edges.*
