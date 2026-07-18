@@ -138,4 +138,28 @@ Throughout this catalogue the tribowhip is described with Fulgorax's specific ma
 
 ---
 
+## An open question: the stacked whip
+
+The note above says the whip's construction is open. Here is the specific open question the project came closest to answering and deliberately left alone.
+
+Fulgorax's whip is a four-layer sealed ribbon with **one** generating interface: a tribopositive charge skin against the quinone gel, backed with silk, armored in sporopollenin. The charge budget is therefore a single-interface budget. Q_pulse = σ × A_geom × f_overlap is charge from *one* contact, and the entire creature is built on it.
+
+The obvious thought is to stack. Keep one silk backing and one sporopollenin coat, and lay several tribopositive/gel pairs between them. Charge scales with the number of interfaces; the coat and backing are paid for once. If it worked, the array could shrink — and a smaller array is cheaper twice over, because anchoring-repair and power-conditioning overheads scale with whip count (Report B, II-5). This was considered and set aside to keep Fulgorax's mathematics defensible. That is a [SPEC-CHOICE], stated here so nobody mistakes it for an oversight.
+
+It is left open because it is not obviously an improvement. It is a genuine conflict between two constraints the design already needs, and both are load-bearing.
+
+**The conflict.** Charge wants layers. Flutter wants a single thin floppy ribbon. Fulgorax's whip is ~100 nm thick and flutters at 0.1–1 Hz, and that band is not a preference — Report B (II-6) finds four independent constraints converging on it: internal-contact fatigue, gel buffering, maintenance current, and the flutter envelope. Bending stiffness scales roughly as thickness cubed, so each added pair buys charge linearly and costs flutter cubically. Since the ledger is a *power* ledger, more charge per pulse at fewer pulses per second may be no gain at all, or a loss. The first thing to break is the 0.1–1 Hz convergence that four separate legs of the design depend on.
+
+**What the engineering literature says, and what it doesn't.** Stacked TENGs are a mature device class — twelve-layer wave harvesters, five-layer stacks, thirty-eight-unit integrations. The scaling is known to be sublinear: a twelve-layer stack yields roughly a six-fold current increase, not twelve (Zhai et al., *Nano Energy* 2024, 125, 109546: 6.35× from twelve layers), and the stacking literature attributes the shortfall to narrow working gaps and limited contact electrification rather than to any fundamental limit. Flexible and stretchable TENGs are equally mature. But the stacked devices and the fluttering devices are disjoint sets. Stacks harvest tapping, neck motion, waves — high-force, low-frequency inputs. Flutter devices are single-membrane. **Nobody has stacked a fluttering membrane**, and the stiffness argument above suggests that is not an oversight. A stacked fluttering whip is not an extrapolation from any built device. It is a combination with a literature on either side of it and nothing in the middle.
+
+**The build problem.** A contact-separation interface must separate. A stack of N interfaces is therefore not a laminate but N sealed cavities that each open and close inside a 100 nm ribbon. Fulgorax's deepest unproven assumption is already biosynthesis (Report B, V-1): that a cell could build the gel, silk, skin, and coat from what the Venusian atmosphere offers. N internal cavities multiplies that assumption rather than adding to it. And interior interfaces in a stiffer ribbon flex less, so f_overlap — the real-contact fraction, already swept pessimistically low because a cell cannot micro-texture a surface — plausibly degrades with depth. The gain is sublinear before the flutter penalty is even counted.
+
+**The claim, and the first move.** The question is not "would stacking help" but **where the two curves cross**: at what N does the charge gain stop paying for the flutter loss, and is the crossing above or below N=2? The tools to answer it exist and are in the repository — g1a (buildable pulse) and g1b (flutter envelope). Sweeping N through both against the II-5 ledger, with array-size shrinkage credited honestly, is an afternoon's work, not a research program. That is the cheapest decisive test, and it runs first.
+
+If the crossing sits at N=1, this entry closes and Fulgorax's single interface is vindicated on grounds stronger than caution. If it sits higher, the ledger's knife-edge (II-5) moves, and the creature that results is not quite Fulgorax.
+
+**Tier:** [SPEC], with a [SIM] path already open. **Claimable.** This one is a component, not a creature — but it sits underneath every candidate in this catalogue, because they all inherit the whip.
+
+---
+
 *Claim a candidate. The discipline that made Fulgorax defensible — gated, tiered, cheapest-kill-first, honest about its limits — is the standard each of these would have to meet to become more than a name on a grid. That work is the invitation.*
