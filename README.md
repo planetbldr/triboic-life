@@ -14,9 +14,9 @@ The honest answer is the interesting part. On the project's own accounting, Fulg
 
 ## Why this exists
 
-This is an open, buildable invitation, not a finished claim. The goal is for other people — especially graduate students and early-career researchers in astrobiology, geochemistry, and biophysics — to read it, run it through an LLM to get oriented fast, critique it, and build on it. Everything needed to check the work or extend it is here: the reports, the reasoning, and the code that produced the numbers.
+This is an open, buildable invitation, not a finished claim. The goal is for other people — especially graduate students and early-career researchers in astrobiology, geochemistry, and biophysics — to read it, find where it breaks, and build on it. Everything needed to check the work or extend it is here: the reports, the reasoning, and the code that produced the numbers.
 
-If you came here from an email or a link and want the fastest possible orientation: **download a report below, paste it into any large language model, and ask it to summarize the argument and where it is weakest.** Then read further only if it still interests you. That is the intended entry point.
+The fastest way to judge whether this is worth your time: go to the weakest-points material in Report B, where the project's own failures are collected and argued without flinching — the compute-wall dead-end, the energy budget that only barely closes, and the turnover assumption the whole ledger pivots on. If those read as honest, the rest will too. That is the intended entry point: start from where it is most likely to be wrong.
 
 ---
 
